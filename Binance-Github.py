@@ -9,8 +9,8 @@ api_key = 'SUA API'
 api_secret = 'SUA KEY'
 client = Client(api_key, api_secret)
 
-bot = telegram.Bot(token='TOKEN TELEGRAM')#LINHA 67 MODIFICAR COM O ID DO CHAT
-#LINHA 67 MODIFICAR COM O ID DO CHAT
+bot = telegram.Bot(token='TOKEN TELEGRAM')#LINHA 68 MODIFICAR COM O ID DO CHAT
+#LINHA 68 MODIFICAR COM O ID DO CHAT
 
 # Definir os pares de criptomoedas que você deseja analisar
 symbols = ['SOLUSDT', 'ICXUSDT', 'STORJUSDT', 'BLZUSDT', 'UNIUSDT', 'AVAXUSDT']
